@@ -1,0 +1,21 @@
+"""六只木偶的嗓音设定：音色描述（给“音色设计”用）、目标音高、试听文本。"""
+PUPPETS = {
+    "weight": dict(zh="秤砣", f0=95, gender="male", age="middle_aged", tone=["steady", "weary"],
+        desc="A heavyset middle-aged man with a very deep, gravelly bass voice. He speaks slowly and uses few words, blunt and stoic, like an old ironworker. Dry, close and slightly hoarse. Theatrical puppet-show delivery, not a narrator or announcer.",
+        sample="我来。交给我。分量够了吧。"),
+    "scarecrow": dict(zh="稻草人", f0=150, gender="male", age="young", tone=["energetic", "passionate"],
+        desc="A scrappy young man with a raspy, hoarse, slightly cracked voice, full of stubborn fighting spirit and a little out of breath, like a street kid who never gives up. Rough and lively, theatrical puppet-show delivery, not a narrator.",
+        sample="算我一个！我还能打！稻草也扎人！"),
+    "kite": dict(zh="纸鸢", f0=280, gender="female", age="young", tone=["bright", "playful"],
+        desc="A lively teenage girl with a bright, thin, crisp high voice. Quick, cheeky and teasing, light as paper, always a little smug. Theatrical puppet-show delivery, not a narrator or assistant.",
+        sample="跟得上我吗？起风了！太慢啦。"),
+    "bamboo": dict(zh="竹竿侠", f0=130, gender="male", age="young", tone=["refined", "measured"],
+        desc="A calm young swordsman with a clear, refined, slightly nasal voice. Polite, restrained and measured, in the manner of a classical Chinese wuxia hero, every word unhurried. Theatrical stage delivery, not a narrator.",
+        sample="在下愿往。请赐教。承让。"),
+    "iron": dict(zh="铁甲将军", f0=110, gender="male", age="old", tone=["authoritative", "passionate"],
+        desc="An old general with a powerful, booming, commanding baritone voice. He declaims like a military commander in Chinese opera stage recitation: forceful, resonant, drawn-out stresses. Theatrical, larger than life, not a narrator.",
+        sample="末将听令！末将愿打头阵！阵前无敌！"),
+    "tumbler": dict(zh="不倒翁", f0=250, gender="neutral", age="child", tone=["playful", "friendly"],
+        desc="A chubby, cheerful little kid with a round, bouncy, giggly voice. Silly and playful, always sounds like he is smiling and about to laugh, a bit sing-song. Cartoon puppet-show delivery, not a narrator.",
+        sample="嘿，选我选我！我可倒不了～倒不了～"),
+}

@@ -1,0 +1,158 @@
+{
+ "weight_head": {
+  "faces": 9000
+ },
+ "kite_head": {
+  "faces": 9000
+ },
+ "scarecrow_torso": {
+  "faces": 12000
+ },
+ "kite_wings": {
+  "faces": 8000
+ },
+ "iron_head": {
+  "faces": 9000
+ },
+ "scarecrow_head": {
+  "faces": 9000
+ },
+ "bamboo_limb": {
+  "faces": 3000
+ },
+ "bamboo_torso": {
+  "faces": 14000
+ },
+ "iron_shoulder": {
+  "faces": 5000
+ },
+ "iron_limb": {
+  "faces": 6000
+ },
+ "weight_limb": {
+  "faces": 6000
+ },
+ "kite_torso": {
+  "faces": 14000
+ },
+ "kite_limb": {
+  "faces": 8000
+ },
+ "iron_torso": {
+  "faces": 12000
+ },
+ "weight_torso": {
+  "faces": 12000
+ },
+ "bamboo_head": {
+  "faces": 9000
+ },
+ "scarecrow_limb": {
+  "faces": 6000
+ },
+ "tumbler_head": {
+  "faces": 9000
+ },
+ "tumbler_torso": {
+  "faces": 12000
+ },
+ "tumbler_limb": {
+  "faces": 6000
+ },
+ "glove": {
+  "faces": 4000
+ },
+ "weight_foot": {
+  "faces": 6000
+ },
+ "scarecrow_foot": {
+  "faces": 5000
+ },
+ "kite_foot": {
+  "faces": 5000
+ },
+ "bamboo_foot": {
+  "faces": 5000
+ },
+ "iron_foot": {
+  "faces": 5000
+ },
+ "tumbler_foot": {
+  "faces": 5000
+ },
+ "joint_wood": {
+  "faces": 5000
+ },
+ "joint_brass": {
+  "faces": 5000
+ },
+ "dummy_head": {
+  "faces": 9000
+ },
+ "dummy_torso": {
+  "faces": 12000
+ },
+ "dummy_limb": {
+  "faces": 8000
+ },
+ "ctrl_bar": {
+  "faces": 6000
+ },
+ "cage_post": {
+  "faces": 9000
+ },
+ "ring_steps": {
+  "faces": 9000
+ },
+ "corner_stool": {
+  "faces": 9000
+ },
+ "bucket": {
+  "faces": 9000
+ },
+ "spotlight": {
+  "faces": 9000
+ },
+ "lantern": {
+  "faces": 9000
+ },
+ "weight_body": {
+  "faces": 14000
+ },
+ "tumbler_body": {
+  "faces": 14000
+ },
+ "weight_core": {
+  "faces": 12000
+ },
+ "scarecrow_chest": {
+  "faces": 14000
+ },
+ "kite_chest": {
+  "faces": 12000
+ },
+ "iron_chest": {
+  "faces": 14000
+ },
+ "bamboo_head2": {
+  "faces": 8000
+ },
+ "iron_head2": {
+  "faces": 10000
+ },
+ "glove2": {
+  "faces": 10000
+ },
+ "iron_foot2": {
+  "faces": 8000
+ },
+ "belt_core": {
+  "faces": 22000
+ },
+ "belt_side": {
+  "faces": 10000
+ },
+ "belt_core2": {
+  "faces": 16000
+ }
+}
